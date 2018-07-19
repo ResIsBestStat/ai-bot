@@ -1,1 +1,1 @@
-worker: node-bot.counter.js
+worker: bot.counter.js
