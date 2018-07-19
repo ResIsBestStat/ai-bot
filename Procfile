@@ -1,1 +1,1 @@
-eyzalts: node bot.counter.js
+eyzalts: node bot-counter.js
