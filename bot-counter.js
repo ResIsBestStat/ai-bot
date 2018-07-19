@@ -18,7 +18,7 @@ try {
 };
 
 // Idk random shit
-client.login(process.env.BOT_TOKEN);
+//client.login(process.env.BOT_TOKEN);
 
 // initialize the bot
 const bot = new Discord.Client();
